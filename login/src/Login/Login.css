@@ -1,0 +1,63 @@
+.form {
+    margin: 0 auto;
+    margin-bottom: 150px ;
+    margin-top: 15%;
+    background-color: whitesmoke;
+    width: 400px;
+    height: 300px;
+    border-radius: 2%;
+    box-shadow: 3px 3px grey;
+    padding: 45px;
+}
+
+
+.usuario{
+      
+      padding-top: 60px;
+    
+    
+   
+
+} 
+
+
+div input {
+    padding: 10px;
+    width: 230px;
+    height: 20px;
+    border-radius: 10px;
+    border: 3px solid rgb(226, 226, 226);
+    background-color: rgb(226, 226, 226); 
+    color: rgb(32, 30, 30) !important; 
+    font-weight: bold;
+
+}
+
+
+.senha {
+
+    padding: 15px;
+    
+
+
+}
+
+
+.botao{
+    font-size: 1em;
+    color: white;
+    margin-top: 20px;
+    width: 140px;
+    height: 40px;
+    border-radius: 2%;
+    background-color: rgb(235, 126, 48);
+    border: 3px solid rgb(235, 126, 48);
+
+}
+
+
+
+.esqueceu{
+    font-size: 0.8em;
+    color: darkblue;
+}
